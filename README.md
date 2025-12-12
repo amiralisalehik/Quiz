@@ -35,8 +35,6 @@ npm start
  └── App.tsx
 </code></pre>
 
-  <footer style="margin-top:18px;color:#555;font-size:13px">
-    Place this file in the repo root. Note: GitHub shows raw HTML when viewing the file in the repo; to view the rendered HTML you can open it locally in a browser or publish via GitHub Pages.
-  </footer>
+  
 </body>
 </html>
