@@ -1,15 +1,6 @@
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Quiz App — README</title>
-  <style>
-    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial;line-height:1.5;color:#111;margin:28px;max-width:780px}
-    h1{margin-top:0}
-    pre{background:#f5f5f5;padding:12px;border-radius:6px;overflow:auto}
-    code{font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", monospace}
-    ul{margin-top:0}
-  </style>
+ 
 </head>
 <body>
   <h1>Quiz App</h1>
